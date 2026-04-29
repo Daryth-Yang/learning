@@ -1,6 +1,22 @@
-# AI PM 学习资源库
+# AI PM 学习资源库(教练导航地图)
 
-> 资源持续扩充。学习过程中发现好资源就加进来。
+> ⚠️ **资料分两层**:
+>
+> - **本文件(`resources.md`)**:资源类别 + 大方向(教练用,告诉你"该看什么类型的资料")
+> - **`learning-materials/`**(项目根目录):**已验证的具体链接**(用户用,具体点哪儿就能看)
+>
+> 新链接由教练通过 web 搜索验证后写入 `learning-materials/`,从不编 URL。
+
+📁 **已验证链接库**:[`../../../../learning-materials/`](../../../../learning-materials/)
+- [视频](../../../../learning-materials/videos.md)
+- [文章](../../../../learning-materials/articles.md)
+- [实操平台](../../../../learning-materials/tools-platforms.md)
+- [关注列表](../../../../learning-materials/communities.md)
+- [书单](../../../../learning-materials/books.md)
+
+---
+
+## 资源类别速查(教练用)
 
 ---
 
