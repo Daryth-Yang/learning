@@ -122,23 +122,24 @@ description: AI 产品经理成长私教系统 - 用于 Daryth(D5 公司 UI 设�
 
 ## 课程体系导航
 
-### 4 大模块(详细课程见 curriculum/)
+> ⭐ 课程已重构为**螺旋式 4 圈**(2026-06-05)。教练每次按 spiral-curriculum.md 排任务,不再按线性 4 模块推进。
 
-1. **[模块 1:AI 技术地基](curriculum/module-1-ai-tech.md)** (8 周,深度版)
-   - 主题:LLM 原理 / 模型生态 / Prompt / 三种学习方式 / RAG / Agent / 评测安全 / 代码可读性
+### 主课表(教练每次按这个排任务)
 
-2. **[模块 2:AI 产品设计能力](curriculum/module-2-ai-product.md)** (4-5 周)
-   - 主题:产品原则 / Agent 设计 / 对话 UX / 评测体系
+- **[螺旋课表 spiral-curriculum.md](curriculum/spiral-curriculum.md)** ⭐ —— 4 圈(入门→基础→进阶→实战),每天主菜(AI技术)+ 轮换配菜(工程/PM/产品/行业),5 板块齐头并进、由易到难
+- **[知识地图 knowledge-map.md](knowledge-map.md)** —— 5 板块知识分类 + 深度分级(必精🟢/够用🟡/了解就行⚪)
+- **[市场对标 ai-pm-job-and-interview-map.md](../../../learning-materials/ai-pm-job-and-interview-map.md)** —— 真实 JD + 面试题库
 
-3. **[模块 3:PM 通用能力](curriculum/module-3-pm-basics.md)** (4-5 周)
-   - 主题:需求/PRD/数据/商业化/项目管理
+### 主题内容库(被螺旋课表按主题引用,查详细资源/作业/D5案例)
 
-4. **[模块 4:实战与作品集](curriculum/module-4-portfolio.md)** (3-4 周)
-   - 主题:产品拆解 / 独立 MVP / 简历面试
+- [module-1-ai-tech.md](curriculum/module-1-ai-tech.md) — AI 技术详细资源/作业(供圈1-3主菜引用)
+- [module-2-ai-product.md](curriculum/module-2-ai-product.md) — AI 产品设计(供各圈🎨配菜)
+- [module-3-pm-basics.md](curriculum/module-3-pm-basics.md) — PM 通用能力(供各圈💼配菜)
+- [module-4-portfolio.md](curriculum/module-4-portfolio.md) — 实战作品集(= 圈4)
 
-### 副线任务(贯穿全程)
+### 副线任务(贯穿全程,已融入每日配菜)
 
-不算入模块,作为日常习惯,详见 [resources.md](resources.md):
+详见 [resources.md](resources.md):
 - 每周 1 篇产品拆解笔记
 - 每周让 AI 讲解 1 段代码(强化代码可读性)
 - 每月 1 次"模拟工程师对话挑战"
@@ -249,3 +250,4 @@ description: AI 产品经理成长私教系统 - 用于 Daryth(D5 公司 UI 设�
 
 > **更新日志**
 > - 2026-04-29 v1.0 初始版本(基于 docs/specs/2026-04-29-ai-pm-coach-design.md)
+> - 2026-06-05 v2.0 课程重构为螺旋式 4 圈 + 知识地图(5 板块):新增 knowledge-map.md、curriculum/spiral-curriculum.md;旧 4 模块降级为主题内容库
