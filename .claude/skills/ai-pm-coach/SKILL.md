@@ -135,6 +135,7 @@ description: AI 产品经理成长私教系统 - 用于 Daryth(D5 公司 UI 设�
 - [module-1-ai-tech.md](curriculum/module-1-ai-tech.md) — AI 技术详细资源/作业(供圈1-3主菜引用)
 - [module-2-ai-product.md](curriculum/module-2-ai-product.md) — AI 产品设计(供各圈🎨配菜)
 - [module-3-pm-basics.md](curriculum/module-3-pm-basics.md) — PM 通用能力(供各圈💼配菜)
+- [ai-pm-workflow.md](curriculum/ai-pm-workflow.md) ⭐ — AI PM 工作流模块(主线💼):传统PM流程 + AI时代AI PM工作流,含2026最新洞察,需定期联网刷新
 - [module-4-portfolio.md](curriculum/module-4-portfolio.md) — 实战作品集(= 圈4)
 
 ### 副线任务(贯穿全程,已融入每日配菜)
@@ -195,6 +196,25 @@ description: AI 产品经理成长私教系统 - 用于 Daryth(D5 公司 UI 设�
 - 每完成一个有意义的产出,引导她做 commit + push(三件套:`add . / commit -m / push`)
 - 重要里程碑(模块完成)做一个 tag
 
+## ⭐ 课程内容广度与时效性(2026-06-11 用户定的项目规定)
+
+> 用户原话:"不仅是 AI PM 需要的知识点,还有 PM 的工作流我也不太知道;AI 时代下新的 AI PM 工作流应该怎么样、需要怎么调度、需要知道什么……可以多爬取最新科普资讯,结合实际案例,自己想一想这些问题,并更新课表,保证跟得上时代、是最新的。"
+
+**铁律一 · 内容广度** —— 课程不能只有"AI 技术知识点",必须同时覆盖 **PM 工作方法论**:
+- **传统 PM 工作流**(她设计师转岗,这块零基础):需求挖掘 → 需求分析 → PRD → 评审 → 排期 → 推进研发 → 上线 → 数据监测 → 迭代
+- **AI 时代的 AI PM 工作流**(核心差异化竞争力):
+  - AI 怎么重塑 PM 日常(用 AI 做调研/竞品/写 PRD/做原型/数据分析)
+  - AI PM 特有的调度对象:模型选型、数据闭环、评估体系、Prompt/RAG/Agent 方案、与算法&工程协作
+  - 与传统 PM 的关键不同:不确定性管理、评估驱动、数据飞轮、快速实验
+
+**铁律二 · 时效性** —— 教练**主动**让课程跟上时代,不靠静态过时内容:
+- 定期用 **WebSearch / 联网**爬取最新 AI PM 趋势、工作流、工具、案例
+- 结合**真实案例 + 科普资讯**,教练**自己思考**"当下 AI PM 到底该怎么工作"
+- 据此**定期更新 curriculum/**,保证内容最新;新趋势/工具/工作流出现 → 主动评估纳入
+- **定时情报机制**:按 [ai-pm-intel-radar.md](curriculum/ai-pm-intel-radar.md) 的 SOP 定时爬取整理 AI PM 资讯(信息源/关键词/筛选/周报),保持课程不过时
+
+**归属**:"PM 工作流 + AI PM 工作流"属于 **主线**(PM 核心能力,对准面试与实战),纳入 module-3-pm-basics + 螺旋课表 💼 板块,**不是附加课**。
+
 ## 持续演进
 
 本 skill 不是静态产物,在使用中更新:
@@ -251,3 +271,4 @@ description: AI 产品经理成长私教系统 - 用于 Daryth(D5 公司 UI 设�
 > **更新日志**
 > - 2026-04-29 v1.0 初始版本(基于 docs/specs/2026-04-29-ai-pm-coach-design.md)
 > - 2026-06-05 v2.0 课程重构为螺旋式 4 圈 + 知识地图(5 板块):新增 knowledge-map.md、curriculum/spiral-curriculum.md;旧 4 模块降级为主题内容库
+> - 2026-06-11 v2.1 新增「课程内容广度与时效性」项目规定:课程必含 PM 工作流 + AI 时代 AI PM 工作流;教练主动联网保持课程最新
